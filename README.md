@@ -1,0 +1,2 @@
+# jsprojects
+Practicing Javascript
